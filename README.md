@@ -5,11 +5,7 @@ Este é um projeto em Flutter desenvolvido como parte de uma vaga de estágio. �
 
 ## Linguagens e Ferramentas Utilizadas
 - Dart
-- C++
-- C
-- CMake
-- HTML
-- Swift
+- Flutter
 
 ## Instalação
 Para instalar e executar este projeto localmente, siga estas etapas:
@@ -28,9 +24,8 @@ flutter pub get
 5. **Execute o aplicativo:**
 flutter run
 
-
 ## Uso
-Ao iniciar o aplicativo, você será direcionado para a tela de login. Após o login, você terá acesso às seguintes funcionalidades:
+Ao iniciar o aplicativo, você será direcionado para a tela principal, onde poderá acessar as seguintes funcionalidades:
 
 - **Lista de Alunos:** Visualize, edite e exclua os alunos cadastrados.
 - **Cadastro de Alunos:** Adicione novos alunos à lista.
