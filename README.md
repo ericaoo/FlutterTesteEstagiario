@@ -1,16 +1,40 @@
-# flutter_application
+# FlutterTesteEstagiario
 
-A new Flutter project.
+## Descrição
+Este é um projeto em Flutter desenvolvido como parte de uma vaga de estágio. É uma aplicação móvel básica que visa simular uma funcionalidade de gerenciamento de alunos, semelhante a um aplicativo de academia para professores. O aplicativo permite visualizar uma lista de alunos, editar, excluir e cadastrar novos alunos. Além disso, integra a API VIACEP para validação de endereços.
 
-## Getting Started
+## Linguagens e Ferramentas Utilizadas
+- Dart
+- C++
+- C
+- CMake
+- HTML
+- Swift
 
-This project is a starting point for a Flutter application.
+## Instalação
+Para instalar e executar este projeto localmente, siga estas etapas:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone este repositório:**
+git clone git@github.com:ericaoo/FlutterTesteEstagiario.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Navegue até o diretório do projeto:**
+cd FlutterTesteEstagiario
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Instale as dependências do Flutter (se ainda não estiverem instaladas):**
+flutter pub get
+
+4. **Certifique-se de ter um dispositivo móvel conectado ao computador ou um emulador de celular configurado.**
+
+5. **Execute o aplicativo:**
+flutter run
+
+
+## Uso
+Ao iniciar o aplicativo, você será direcionado para a tela de login. Após o login, você terá acesso às seguintes funcionalidades:
+
+- **Lista de Alunos:** Visualize, edite e exclua os alunos cadastrados.
+- **Cadastro de Alunos:** Adicione novos alunos à lista.
+- **Endereço do Aluno:** Visualize o endereço do aluno utilizando a integração com a API VIACEP.
+
+## Observações
+Este projeto é uma aplicação básica e de demonstração, desenvolvida como parte de um processo seletivo para estágio. Sinta-se à vontade para explorar e modificar o código conforme necessário.
