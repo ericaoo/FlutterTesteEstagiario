@@ -7,6 +7,14 @@ Este é um projeto em Flutter desenvolvido como parte de uma vaga de estágio. �
 - Dart
 - Flutter
 
+  # Sobre o Projeto
+
+## Propósito
+O projeto **FlutterTesteEstagiario** foi desenvolvido como parte de um processo seletivo para uma vaga de estágio. Ele é uma aplicação móvel básica que visa simular uma funcionalidade de gerenciamento de alunos, inspirada em aplicativos de academia para professores.
+
+## Desenvolvedor
+Este projeto foi concebido e desenvolvido por [Eric Mendes](https://github.com/ericaoo).
+
 ## Instalação
 Para instalar e executar este projeto localmente, siga estas etapas:
 
@@ -33,3 +41,13 @@ Ao iniciar o aplicativo, você será direcionado para a tela principal, onde pod
 
 ## Observações
 Este projeto é uma aplicação básica e de demonstração, desenvolvida como parte de um processo seletivo para estágio. Sinta-se à vontade para explorar e modificar o código conforme necessário.
+
+## Contato
+Se você tiver dúvidas, sugestões ou quiser contribuir para o projeto, sinta-se à vontade para entrar em contato com o desenvolvedor em [ericaomendess@gmail.com](mailto:ericaomendess@gmail.com).
+
+## Licença
+Este projeto está licenciado sob a [Licença MIT](LICENSE), o que significa que você pode utilizá-lo livremente, desde que mantenha o aviso de direitos autorais.
+
+
+
+
